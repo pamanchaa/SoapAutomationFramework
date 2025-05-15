@@ -1,1 +1,1 @@
-python C:\MyProjects\SoapAutomationFramework\src\tests\run_tests.py  -s --html=report.html --self-contained-html
+python C:\MyProjects\SoapAutomationFramework\src\tests\run_tests.py  
